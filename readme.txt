@@ -6,3 +6,6 @@ I am second change
 
 I am third change
 git track changes of files
+
+
+git add first
