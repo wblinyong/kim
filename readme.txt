@@ -9,3 +9,4 @@ git track changes of files
 
 
 git add first
+git second add
