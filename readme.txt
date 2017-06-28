@@ -12,5 +12,7 @@ git add first
 git second add
 
 dev
-Creating a new branch is quick & simple and quick.
+Creating a new branch is quick AND simple.
+
+Œ“ «feature1
 
